@@ -11,15 +11,6 @@ html, body{
     font-family: "Roboto", sans-serif; 
 }
 
-/* .hero_section {
-  background-image: url("https://likeable-polka-af3.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F08d7dba3-5b48-443c-9dfc-c6b231929ce0%2FUntitled.png?table=block&id=889a6236-af8c-47e5-a4a8-ca08e3fd9b20&spaceId=fb3f4054-1e06-4b3d-8d56-606936407ce7&width=2000&userId=&cache=v2");
-  min-height: 100vh;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-} */
-
-
 
 .black_box {
     background-color: #000;
@@ -52,6 +43,7 @@ html, body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    /* justify-content: center; */
     max-width: 300px;
     height: 350px;
     border-radius: 10px;
@@ -82,6 +74,7 @@ html, body{
    
 .contact {
     background-color: #515603;
+    width: 50%;
 }
   
 .about {
